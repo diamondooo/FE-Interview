@@ -33,7 +33,7 @@
      <td align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/node.md">Node</a></b></td>
     <td align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/webpack.md">Webpack</a></b></td>
       <td align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/http.md">Http</a></b></td>
-      <td align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/algorithm.md">Algorithm</a></b></td>
+      <td align="center"><b><a href="https://github.com/diamondooo/FE-Interview/blob/master/summarry/algorithm/algorithm.md">Algorithm</a></b></td>
        <td align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/program.md">Coding</a></b></td>
       <td align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/other.md">Other</a></b></td>
   </tr>
